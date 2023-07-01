@@ -11,11 +11,8 @@
     * Based model off 2 part system, Top and Bottom chassis. All electronics would be hosted on bottom, and payload and other top chassis could be switched out on top.
         
         * Potential top chassis include: carrier box, flat platform for ROV carrying, tools     
-    ![Top Chassis V1](https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/TopChassisV1.png)
-    ![Nottom Chassis V1](https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/BottomChassisV1.png)
-
-            <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/TopChassisV1.png" width="200" />
-
+    <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/TopChassisV1.png" width="300" />
+    <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/BottomChassisV1.png" width="300" />
     
 
     
@@ -23,6 +20,8 @@
     
     * Calculated how much torque and rpm I needed.
         > Used Robotshop motor sizing tool: https://community.robotshop.com/blog/show/drive-motor-sizing-tool
+        
+        * My results: https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/MotorSizing.png
         * Picked out motor: Traxxas 21t 550 motor, seems to have enough rpm and I plan on gearing down to 400rpm to be able to reach 5mph.
 
         
