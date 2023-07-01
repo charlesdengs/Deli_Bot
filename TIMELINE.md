@@ -14,6 +14,8 @@
     ![Top Chassis V1](https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/TopChassisV1.png)
     ![Nottom Chassis V1](https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/BottomChassisV1.png)
 
+    <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/TopChassisV1.png" width="200" />
+
     
 
     
