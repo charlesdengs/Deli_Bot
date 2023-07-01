@@ -13,8 +13,7 @@
         * Potential top chassis include: carrier box, flat platform for ROV carrying, tools     
     <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/TopChassisV1.png" width="300" />
     <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/BottomChassisV1.png" width="300" />
-    
-
+    <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/WholeAssemblyV1.png" width="300" />
     
     * Spent alot of time working on the wheels, wanted to be able to have a logo in the center of the wheel while hiding nut connecting shaft to wheel.
     
