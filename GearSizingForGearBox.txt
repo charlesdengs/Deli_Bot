@@ -1,0 +1,2 @@
+Inside D of Gear 1 : 20.984
+Outside D of Gear 2: 50.639
