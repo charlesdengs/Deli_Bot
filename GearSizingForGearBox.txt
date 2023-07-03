@@ -1,2 +1,6 @@
-Inside D of Gear 1 : 20.984
-Outside D of Gear 2: 50.639
+Inside D of Gear 1 : 13.989
+Outside D of Gear 2: 49.759
+Inside D of Gear 3 : 13.989
+Outside D of Gear 4: 49.759
+Inside D of Gear 5 : 13.989
+Outside D of Gear 4: 49.759
