@@ -42,9 +42,7 @@
 * I have finished a prototype CAD for the gearbox, with a reduction of 27:1. I used a parrallel gearbox, where 2 gears are on the shaft connected, so I could make the gearbox more compact. I used  3, 3:1 gears to make the ratio. The exact teeth count was, 3 sets of 16 teeth to 48 teeth. The gearbox uses a 3/16in shaft, that I'm going to buy from lowes and cut down to the appropiate size, and there are also spacers to keep the gears in line. I saw a video where the shaft for the in between gears didn't rotate, and only the gears did. I liked that idea, so I incorporated it.
     * The gearbox's size makes it so, I can only fit 4 motors inside the bottom chassis, so I will have to stick to 4 wheels instead of 6. This means each motor will need to output more torque, but the toruqe from the gearbox should be more than enough. Will do testing soon.
     * This video was really helpful: https://www.youtube.com/watch?v=VsX_tIuKYB0
-<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxFullV1.png" width="200" />
-<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearBoxAngledV1.png" width="200" />
-<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxTopV1.png" width="200" />
 
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxFullV1.png" width="200" />  <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearBoxAngledV1.png" width="200" /> 
+<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxTopV1.png" width="200" />
 * I'm leaving for the beach tommorrow, so most likely not much work or updates will be out for a few days.
