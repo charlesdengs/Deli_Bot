@@ -46,4 +46,5 @@
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearBoxAngledV1.png" width="200" />
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxTopV1.png" width="200" />
 
+| <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxFullV1.png" width="200" /> | <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearBoxAngledV1.png" width="200" /> |
 * I'm leaving for the beach tommorrow, so most likely not much work or updates will be out for a few days.
