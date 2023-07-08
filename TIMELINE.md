@@ -43,8 +43,18 @@
     * The gearbox's size makes it so, I can only fit 4 motors inside the bottom chassis, so I will have to stick to 4 wheels instead of 6. This means each motor will need to output more torque, but the toruqe from the gearbox should be more than enough. Will do testing soon.
     * This video was really helpful: https://www.youtube.com/watch?v=VsX_tIuKYB0
 
-
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxFullV1.png" width="200" />  <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearBoxAngledV1.png" width="200" /> 
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/GearboxTopV1.png" width="200" />
 
 * I'm leaving for the beach tommorrow, so most likely not much work or updates will be out for a few days.
+
+## Day 4 (July 7, 2023) - Printing and Issues
+
+* Got back from Folly Beach, SC today, that was really cool. Fun place to be, learned how to surf.
+* I'm beginning to print out some of the preliminary parts of the gearbox to test tolerances.
+* I'm having a issue with fusion 360 where all the actions in the timeline keep messing up when I change anything. Trying to figure it out, I might just copy the file and paste and make a new one.
+<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/WeirdTimeLineErrors.png" width="200" />
+
+* I also reorganized the bot chassis to fit the 4 gearboxes, their arrangement, and larger tires so the bottom of the chassis doesn't hit anything.
+<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/BottomChassisV2.png" width="200" />
+<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/Motorspacing.png" width="200" />
