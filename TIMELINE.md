@@ -58,3 +58,16 @@
 * I also reorganized the bot chassis to fit the 4 gearboxes, their arrangement, and larger tires so the bottom of the chassis doesn't hit anything.
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/BottomChassisV2.png" width="200" />
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/Motorspacing.png" width="200" />
+
+
+## Day 5 (July 13, 2023) - Testing Gearboxes and Reorganizing
+
+* I fixed the issues with the gearbox F360 file by going back in the timeline and readjusting the sketches one by one. It seems like it accidentally projected too many faces, so the extrusion go overwhelemed. I resolved this by removing those extra faces.
+
+* I also designed a sensor/camera tray on the top chassis for where I could include ultrasonic sensors and cameras for view. The only issue with the tray is that is takes up space inside the storage unit, but from other robots I saw, they tend to do the same, so I think for the space underneath the camera tray, I might add trays or pullout tabs for more storage.
+<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/NewCameraHousing.png" width="200" />
+<img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/CameraHousingInside.png" width="200" />
+
+* I finished printing out the gearbox, I'm still waiting on a package with the ESCs, and bearings to finish the gearbox. But with just the 1:9 gear ratio, it is working out really well. The gearbox is really loud however, but lubrication, and the top casing should help block out some of the noise.
+
+* My plans now are to get the ESCs set up with the motors once they arrive, and begin testing code, since a lot of the remaining prints will be the rest of the gearboxes, and the larger prints of the chassis'.
