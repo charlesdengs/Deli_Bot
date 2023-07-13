@@ -65,7 +65,6 @@
 * I fixed the issues with the gearbox F360 file by going back in the timeline and readjusting the sketches one by one. It seems like it accidentally projected too many faces, so the extrusion go overwhelmed. I resolved this by removing those extra faces.
 
 * I also designed a sensor/camera tray on the top chassis where I could include ultrasonic sensors and cameras for view. The only issue with the tray is that it takes up space inside the storage unit, but other robots I saw, tend to do the same, so I think for the space underneath the camera tray, I might add trays or pullout tabs for more storage.
-
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/NewCameraHousing.png" width="200" />
 <img src="https://github.com/charlesdengs/Deli_Bot/blob/main/Progress%20Photos%20of%20CAD%20and%20Robot/CameraHousingInside.png" width="200" />
 
